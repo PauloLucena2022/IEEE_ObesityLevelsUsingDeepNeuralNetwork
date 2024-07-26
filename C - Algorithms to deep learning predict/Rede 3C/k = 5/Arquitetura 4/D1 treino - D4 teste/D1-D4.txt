@@ -1,0 +1,931 @@
+Aprendizagem da Rede
+
+
+VERIFICACAO
+
+
+<<Pesos Camada Entrada Oculta>>
+ w1[0][1]=1.246818
+ w1[0][2]=-1.106791
+ w1[0][3]=-0.577041
+
+ w1[1][1]=-0.710599
+ w1[1][2]=-1.583364
+ w1[1][3]=-1.359854
+
+ w1[2][1]=-0.910243
+ w1[2][2]=-1.237600
+ w1[2][3]=-1.746779
+
+ w1[3][1]=-0.390085
+ w1[3][2]=-0.959524
+ w1[3][3]=-1.314577
+
+ w1[4][1]=-2.174222
+ w1[4][2]=-1.270954
+ w1[4][3]=-1.353829
+
+ w1[5][1]=-1.746097
+ w1[5][2]=-1.311493
+ w1[5][3]=-0.472357
+
+ w1[6][1]=-1.584380
+ w1[6][2]=-1.647342
+ w1[6][3]=-1.406124
+
+ w1[7][1]=-1.170694
+ w1[7][2]=-1.260803
+ w1[7][3]=-1.016737
+
+ w1[8][1]=-1.729126
+ w1[8][2]=-1.173741
+ w1[8][3]=-0.946019
+
+ w1[9][1]=-0.598318
+ w1[9][2]=-0.444291
+ w1[9][3]=-1.961957
+
+ w1[10][1]=-1.867424
+ w1[10][2]=-0.209529
+ w1[10][3]=-0.489304
+
+ w1[11][1]=-0.425485
+ w1[11][2]=-0.998220
+ w1[11][3]=-0.272669
+
+ w1[12][1]=-0.244571
+ w1[12][2]=-0.768892
+ w1[12][3]=-1.328357
+
+ w1[13][1]=-1.861185
+ w1[13][2]=-0.357065
+ w1[13][3]=-1.490682
+
+ w1[14][1]=-0.213007
+ w1[14][2]=-0.645569
+ w1[14][3]=-1.963554
+
+ w1[15][1]=-0.304100
+ w1[15][2]=-1.816783
+ w1[15][3]=-0.670641
+
+ w1[16][1]=-1.470000
+ w1[16][2]=0.010000
+ w1[16][3]=-1.890000
+
+
+<<Pesos Camada Oculta Saida>>
+ w2[0][0]=-1.749284
+
+ w2[1][0]=-2.985380
+
+ w2[2][0]=-1.320839
+
+ w2[3][0]=-1.615680
+
+Padrao Testes>>0
+calculado>>0.034420   	desejado>>0.030000  	Erro>>0.000009767
+Padrao Testes>>1
+calculado>>0.041739   	desejado>>0.030000  	Erro>>0.000068897
+Padrao Testes>>2
+calculado>>0.075571   	desejado>>0.070000  	Erro>>0.000015520
+Padrao Testes>>3
+calculado>>0.028608   	desejado>>0.030000  	Erro>>0.000000969
+Padrao Testes>>4
+calculado>>0.036320   	desejado>>0.030000  	Erro>>0.000019968
+Padrao Testes>>5
+calculado>>0.045857   	desejado>>0.030000  	Erro>>0.000125718
+Padrao Testes>>6
+calculado>>0.038486   	desejado>>0.030000  	Erro>>0.000036008
+Padrao Testes>>7
+calculado>>0.029016   	desejado>>0.030000  	Erro>>0.000000485
+Padrao Testes>>8
+calculado>>0.028027   	desejado>>0.010000  	Erro>>0.000162487
+Padrao Testes>>9
+calculado>>0.043929   	desejado>>0.030000  	Erro>>0.000097014
+Padrao Testes>>10
+calculado>>0.038726   	desejado>>0.030000  	Erro>>0.000038074
+Padrao Testes>>11
+calculado>>0.030367   	desejado>>0.010000  	Erro>>0.000207406
+Padrao Testes>>12
+calculado>>0.038503   	desejado>>0.030000  	Erro>>0.000036154
+Padrao Testes>>13
+calculado>>0.031797   	desejado>>0.030000  	Erro>>0.000001614
+Padrao Testes>>14
+calculado>>0.032221   	desejado>>0.030000  	Erro>>0.000002465
+Padrao Testes>>15
+calculado>>0.035363   	desejado>>0.030000  	Erro>>0.000014379
+Padrao Testes>>16
+calculado>>0.042495   	desejado>>0.030000  	Erro>>0.000078058
+Padrao Testes>>17
+calculado>>0.072170   	desejado>>0.070000  	Erro>>0.000002356
+Padrao Testes>>18
+calculado>>0.036888   	desejado>>0.030000  	Erro>>0.000023725
+Padrao Testes>>19
+calculado>>0.035667   	desejado>>0.030000  	Erro>>0.000016056
+Padrao Testes>>20
+calculado>>0.029301   	desejado>>0.030000  	Erro>>0.000000244
+Padrao Testes>>21
+calculado>>0.050925   	desejado>>0.030000  	Erro>>0.000218935
+Padrao Testes>>22
+calculado>>0.043512   	desejado>>0.030000  	Erro>>0.000091288
+Padrao Testes>>23
+calculado>>0.034336   	desejado>>0.010000  	Erro>>0.000296125
+Padrao Testes>>24
+calculado>>0.040515   	desejado>>0.030000  	Erro>>0.000055285
+Padrao Testes>>25
+calculado>>0.046626   	desejado>>0.030000  	Erro>>0.000138215
+Padrao Testes>>26
+calculado>>0.076499   	desejado>>0.070000  	Erro>>0.000021117
+Padrao Testes>>27
+calculado>>0.031177   	desejado>>0.030000  	Erro>>0.000000693
+Padrao Testes>>28
+calculado>>0.032700   	desejado>>0.030000  	Erro>>0.000003645
+Padrao Testes>>29
+calculado>>0.054248   	desejado>>0.040000  	Erro>>0.000101496
+Padrao Testes>>30
+calculado>>0.049753   	desejado>>0.030000  	Erro>>0.000195086
+Padrao Testes>>31
+calculado>>0.049650   	desejado>>0.040000  	Erro>>0.000046557
+Padrao Testes>>32
+calculado>>0.045645   	desejado>>0.030000  	Erro>>0.000122385
+Padrao Testes>>33
+calculado>>0.033353   	desejado>>0.030000  	Erro>>0.000005620
+Padrao Testes>>34
+calculado>>0.027367   	desejado>>0.010000  	Erro>>0.000150800
+Padrao Testes>>35
+calculado>>0.027240   	desejado>>0.030000  	Erro>>0.000003810
+Padrao Testes>>36
+calculado>>0.056539   	desejado>>0.040000  	Erro>>0.000136762
+Padrao Testes>>37
+calculado>>0.088875   	desejado>>0.080000  	Erro>>0.000039379
+Padrao Testes>>38
+calculado>>0.036683   	desejado>>0.030000  	Erro>>0.000022329
+Padrao Testes>>39
+calculado>>0.028337   	desejado>>0.030000  	Erro>>0.000001383
+Padrao Testes>>40
+calculado>>0.048519   	desejado>>0.030000  	Erro>>0.000171480
+Padrao Testes>>41
+calculado>>0.031177   	desejado>>0.030000  	Erro>>0.000000693
+Padrao Testes>>42
+calculado>>0.034700   	desejado>>0.010000  	Erro>>0.000305047
+Padrao Testes>>43
+calculado>>0.037295   	desejado>>0.030000  	Erro>>0.000026605
+Padrao Testes>>44
+calculado>>0.033823   	desejado>>0.030000  	Erro>>0.000007306
+Padrao Testes>>45
+calculado>>0.032134   	desejado>>0.030000  	Erro>>0.000002276
+Padrao Testes>>46
+calculado>>0.040710   	desejado>>0.030000  	Erro>>0.000057351
+Padrao Testes>>47
+calculado>>0.046149   	desejado>>0.030000  	Erro>>0.000130402
+Padrao Testes>>48
+calculado>>0.056383   	desejado>>0.030000  	Erro>>0.000348041
+Padrao Testes>>49
+calculado>>0.043947   	desejado>>0.030000  	Erro>>0.000097265
+Padrao Testes>>50
+calculado>>0.027666   	desejado>>0.030000  	Erro>>0.000002724
+Padrao Testes>>51
+calculado>>0.040059   	desejado>>0.040000  	Erro>>0.000000002
+Padrao Testes>>52
+calculado>>0.041118   	desejado>>0.030000  	Erro>>0.000061810
+Padrao Testes>>53
+calculado>>0.057099   	desejado>>0.030000  	Erro>>0.000367169
+Padrao Testes>>54
+calculado>>0.034415   	desejado>>0.010000  	Erro>>0.000298046
+Padrao Testes>>55
+calculado>>0.045910   	desejado>>0.030000  	Erro>>0.000126569
+Padrao Testes>>56
+calculado>>0.047793   	desejado>>0.040000  	Erro>>0.000030362
+Padrao Testes>>57
+calculado>>0.033613   	desejado>>0.030000  	Erro>>0.000006526
+Padrao Testes>>58
+calculado>>0.034267   	desejado>>0.030000  	Erro>>0.000009105
+Padrao Testes>>59
+calculado>>0.049214   	desejado>>0.040000  	Erro>>0.000042451
+Padrao Testes>>60
+calculado>>0.046901   	desejado>>0.030000  	Erro>>0.000142824
+Padrao Testes>>61
+calculado>>0.052469   	desejado>>0.070000  	Erro>>0.000153673
+Padrao Testes>>62
+calculado>>0.029599   	desejado>>0.010000  	Erro>>0.000192058
+Padrao Testes>>63
+calculado>>0.033789   	desejado>>0.030000  	Erro>>0.000007180
+Padrao Testes>>64
+calculado>>0.049898   	desejado>>0.030000  	Erro>>0.000197957
+Padrao Testes>>65
+calculado>>0.035731   	desejado>>0.030000  	Erro>>0.000016425
+Padrao Testes>>66
+calculado>>0.030634   	desejado>>0.040000  	Erro>>0.000043857
+Padrao Testes>>67
+calculado>>0.029840   	desejado>>0.010000  	Erro>>0.000196813
+Padrao Testes>>68
+calculado>>0.039422   	desejado>>0.030000  	Erro>>0.000044387
+Padrao Testes>>69
+calculado>>0.040924   	desejado>>0.030000  	Erro>>0.000059662
+Padrao Testes>>70
+calculado>>0.037954   	desejado>>0.040000  	Erro>>0.000002092
+Padrao Testes>>71
+calculado>>0.024663   	desejado>>0.010000  	Erro>>0.000107505
+Padrao Testes>>72
+calculado>>0.046204   	desejado>>0.030000  	Erro>>0.000131280
+Padrao Testes>>73
+calculado>>0.028667   	desejado>>0.030000  	Erro>>0.000000889
+Padrao Testes>>74
+calculado>>0.075279   	desejado>>0.070000  	Erro>>0.000013933
+Padrao Testes>>75
+calculado>>0.042871   	desejado>>0.030000  	Erro>>0.000082826
+Padrao Testes>>76
+calculado>>0.120261   	desejado>>0.100000  	Erro>>0.000205253
+Padrao Testes>>77
+calculado>>0.032849   	desejado>>0.030000  	Erro>>0.000004058
+Padrao Testes>>78
+calculado>>0.028390   	desejado>>0.030000  	Erro>>0.000001296
+Padrao Testes>>79
+calculado>>0.065393   	desejado>>0.060000  	Erro>>0.000014543
+Padrao Testes>>80
+calculado>>0.053053   	desejado>>0.030000  	Erro>>0.000265728
+Padrao Testes>>81
+calculado>>0.089831   	desejado>>0.070000  	Erro>>0.000196635
+Padrao Testes>>82
+calculado>>0.043551   	desejado>>0.030000  	Erro>>0.000091819
+Padrao Testes>>83
+calculado>>0.038718   	desejado>>0.030000  	Erro>>0.000038001
+Padrao Testes>>84
+calculado>>0.030602   	desejado>>0.030000  	Erro>>0.000000181
+Padrao Testes>>85
+calculado>>0.031225   	desejado>>0.030000  	Erro>>0.000000750
+Padrao Testes>>86
+calculado>>0.034561   	desejado>>0.030000  	Erro>>0.000010401
+Padrao Testes>>87
+calculado>>0.039034   	desejado>>0.040000  	Erro>>0.000000467
+Padrao Testes>>88
+calculado>>0.036409   	desejado>>0.010000  	Erro>>0.000348706
+Padrao Testes>>89
+calculado>>0.032405   	desejado>>0.030000  	Erro>>0.000002891
+Padrao Testes>>90
+calculado>>0.084921   	desejado>>0.080000  	Erro>>0.000012107
+Padrao Testes>>91
+calculado>>0.032734   	desejado>>0.030000  	Erro>>0.000003738
+Padrao Testes>>92
+calculado>>0.046955   	desejado>>0.030000  	Erro>>0.000143730
+Padrao Testes>>93
+calculado>>0.060294   	desejado>>0.070000  	Erro>>0.000047099
+Padrao Testes>>94
+calculado>>0.053241   	desejado>>0.040000  	Erro>>0.000087663
+Padrao Testes>>95
+calculado>>0.050427   	desejado>>0.030000  	Erro>>0.000208638
+Padrao Testes>>96
+calculado>>0.057705   	desejado>>0.040000  	Erro>>0.000156737
+Padrao Testes>>97
+calculado>>0.043313   	desejado>>0.030000  	Erro>>0.000088620
+Padrao Testes>>98
+calculado>>0.060536   	desejado>>0.060000  	Erro>>0.000000143
+Padrao Testes>>99
+calculado>>0.047273   	desejado>>0.040000  	Erro>>0.000026445
+Padrao Testes>>100
+calculado>>0.060052   	desejado>>0.060000  	Erro>>0.000000001
+Padrao Testes>>101
+calculado>>0.047450   	desejado>>0.060000  	Erro>>0.000078756
+Padrao Testes>>102
+calculado>>0.035991   	desejado>>0.030000  	Erro>>0.000017946
+Padrao Testes>>103
+calculado>>0.041108   	desejado>>0.040000  	Erro>>0.000000614
+Padrao Testes>>104
+calculado>>0.033962   	desejado>>0.030000  	Erro>>0.000007850
+Padrao Testes>>105
+calculado>>0.028496   	desejado>>0.010000  	Erro>>0.000171051
+Padrao Testes>>106
+calculado>>0.031106   	desejado>>0.010000  	Erro>>0.000222727
+Padrao Testes>>107
+calculado>>0.034835   	desejado>>0.010000  	Erro>>0.000308394
+Padrao Testes>>108
+calculado>>0.031296   	desejado>>0.010000  	Erro>>0.000226768
+Padrao Testes>>109
+calculado>>0.029380   	desejado>>0.010000  	Erro>>0.000187786
+Padrao Testes>>110
+calculado>>0.029239   	desejado>>0.010000  	Erro>>0.000185075
+Padrao Testes>>111
+calculado>>0.029854   	desejado>>0.010000  	Erro>>0.000197096
+Padrao Testes>>112
+calculado>>0.032482   	desejado>>0.010000  	Erro>>0.000252730
+Padrao Testes>>113
+calculado>>0.029273   	desejado>>0.010000  	Erro>>0.000185715
+Padrao Testes>>114
+calculado>>0.030942   	desejado>>0.010000  	Erro>>0.000219284
+Padrao Testes>>115
+calculado>>0.029064   	desejado>>0.010000  	Erro>>0.000181717
+Padrao Testes>>116
+calculado>>0.028443   	desejado>>0.010000  	Erro>>0.000170064
+Padrao Testes>>117
+calculado>>0.029518   	desejado>>0.010000  	Erro>>0.000190485
+Padrao Testes>>118
+calculado>>0.030166   	desejado>>0.010000  	Erro>>0.000203340
+Padrao Testes>>119
+calculado>>0.030396   	desejado>>0.010000  	Erro>>0.000207989
+Padrao Testes>>120
+calculado>>0.030539   	desejado>>0.010000  	Erro>>0.000210917
+Padrao Testes>>121
+calculado>>0.036087   	desejado>>0.010000  	Erro>>0.000340278
+Padrao Testes>>122
+calculado>>0.036334   	desejado>>0.010000  	Erro>>0.000346742
+Padrao Testes>>123
+calculado>>0.035717   	desejado>>0.010000  	Erro>>0.000330679
+Padrao Testes>>124
+calculado>>0.025286   	desejado>>0.010000  	Erro>>0.000116837
+Padrao Testes>>125
+calculado>>0.026130   	desejado>>0.010000  	Erro>>0.000130094
+Padrao Testes>>126
+calculado>>0.026361   	desejado>>0.010000  	Erro>>0.000133848
+Padrao Testes>>127
+calculado>>0.036825   	desejado>>0.010000  	Erro>>0.000359787
+Padrao Testes>>128
+calculado>>0.036415   	desejado>>0.010000  	Erro>>0.000348883
+Padrao Testes>>129
+calculado>>0.034984   	desejado>>0.010000  	Erro>>0.000312109
+Padrao Testes>>130
+calculado>>0.033993   	desejado>>0.010000  	Erro>>0.000287837
+Padrao Testes>>131
+calculado>>0.034925   	desejado>>0.010000  	Erro>>0.000310617
+Padrao Testes>>132
+calculado>>0.034553   	desejado>>0.010000  	Erro>>0.000301413
+Padrao Testes>>133
+calculado>>0.029390   	desejado>>0.010000  	Erro>>0.000187977
+Padrao Testes>>134
+calculado>>0.028490   	desejado>>0.010000  	Erro>>0.000170934
+Padrao Testes>>135
+calculado>>0.029343   	desejado>>0.010000  	Erro>>0.000187069
+Padrao Testes>>136
+calculado>>0.028297   	desejado>>0.010000  	Erro>>0.000167381
+Padrao Testes>>137
+calculado>>0.050145   	desejado>>0.040000  	Erro>>0.000051461
+Padrao Testes>>138
+calculado>>0.050649   	desejado>>0.040000  	Erro>>0.000056698
+Padrao Testes>>139
+calculado>>0.041061   	desejado>>0.040000  	Erro>>0.000000562
+Padrao Testes>>140
+calculado>>0.047411   	desejado>>0.040000  	Erro>>0.000027465
+Padrao Testes>>141
+calculado>>0.031957   	desejado>>0.040000  	Erro>>0.000032346
+Padrao Testes>>142
+calculado>>0.058991   	desejado>>0.040000  	Erro>>0.000180335
+Padrao Testes>>143
+calculado>>0.060783   	desejado>>0.040000  	Erro>>0.000215969
+Padrao Testes>>144
+calculado>>0.042367   	desejado>>0.040000  	Erro>>0.000002802
+Padrao Testes>>145
+calculado>>0.042349   	desejado>>0.040000  	Erro>>0.000002760
+Padrao Testes>>146
+calculado>>0.058898   	desejado>>0.040000  	Erro>>0.000178570
+Padrao Testes>>147
+calculado>>0.048084   	desejado>>0.040000  	Erro>>0.000032677
+Padrao Testes>>148
+calculado>>0.047917   	desejado>>0.040000  	Erro>>0.000031340
+Padrao Testes>>149
+calculado>>0.042585   	desejado>>0.040000  	Erro>>0.000003340
+Padrao Testes>>150
+calculado>>0.059213   	desejado>>0.040000  	Erro>>0.000184567
+Padrao Testes>>151
+calculado>>0.065730   	desejado>>0.040000  	Erro>>0.000331024
+Padrao Testes>>152
+calculado>>0.059920   	desejado>>0.040000  	Erro>>0.000198400
+Padrao Testes>>153
+calculado>>0.056508   	desejado>>0.040000  	Erro>>0.000136257
+Padrao Testes>>154
+calculado>>0.056443   	desejado>>0.040000  	Erro>>0.000135190
+Padrao Testes>>155
+calculado>>0.047487   	desejado>>0.040000  	Erro>>0.000028025
+Padrao Testes>>156
+calculado>>0.050800   	desejado>>0.040000  	Erro>>0.000058324
+Padrao Testes>>157
+calculado>>0.049240   	desejado>>0.040000  	Erro>>0.000042693
+Padrao Testes>>158
+calculado>>0.048896   	desejado>>0.040000  	Erro>>0.000039572
+Padrao Testes>>159
+calculado>>0.051558   	desejado>>0.040000  	Erro>>0.000066792
+Padrao Testes>>160
+calculado>>0.041780   	desejado>>0.040000  	Erro>>0.000001584
+Padrao Testes>>161
+calculado>>0.042423   	desejado>>0.040000  	Erro>>0.000002934
+Padrao Testes>>162
+calculado>>0.042269   	desejado>>0.040000  	Erro>>0.000002574
+Padrao Testes>>163
+calculado>>0.042823   	desejado>>0.040000  	Erro>>0.000003984
+Padrao Testes>>164
+calculado>>0.044882   	desejado>>0.040000  	Erro>>0.000011919
+Padrao Testes>>165
+calculado>>0.045336   	desejado>>0.040000  	Erro>>0.000014235
+Padrao Testes>>166
+calculado>>0.044092   	desejado>>0.040000  	Erro>>0.000008373
+Padrao Testes>>167
+calculado>>0.049819   	desejado>>0.040000  	Erro>>0.000048205
+Padrao Testes>>168
+calculado>>0.050019   	desejado>>0.040000  	Erro>>0.000050187
+Padrao Testes>>169
+calculado>>0.042805   	desejado>>0.040000  	Erro>>0.000003934
+Padrao Testes>>170
+calculado>>0.043020   	desejado>>0.040000  	Erro>>0.000004561
+Padrao Testes>>171
+calculado>>0.043020   	desejado>>0.040000  	Erro>>0.000004561
+Padrao Testes>>172
+calculado>>0.043020   	desejado>>0.040000  	Erro>>0.000004561
+Padrao Testes>>173
+calculado>>0.046088   	desejado>>0.040000  	Erro>>0.000018531
+Padrao Testes>>174
+calculado>>0.049018   	desejado>>0.040000  	Erro>>0.000040662
+Padrao Testes>>175
+calculado>>0.050806   	desejado>>0.040000  	Erro>>0.000058383
+Padrao Testes>>176
+calculado>>0.056651   	desejado>>0.040000  	Erro>>0.000138620
+Padrao Testes>>177
+calculado>>0.057122   	desejado>>0.040000  	Erro>>0.000146580
+Padrao Testes>>178
+calculado>>0.048425   	desejado>>0.040000  	Erro>>0.000035491
+Padrao Testes>>179
+calculado>>0.042919   	desejado>>0.040000  	Erro>>0.000004261
+Padrao Testes>>180
+calculado>>0.042953   	desejado>>0.040000  	Erro>>0.000004361
+Padrao Testes>>181
+calculado>>0.053547   	desejado>>0.060000  	Erro>>0.000020819
+Padrao Testes>>182
+calculado>>0.052354   	desejado>>0.060000  	Erro>>0.000029227
+Padrao Testes>>183
+calculado>>0.041320   	desejado>>0.060000  	Erro>>0.000174478
+Padrao Testes>>184
+calculado>>0.060981   	desejado>>0.060000  	Erro>>0.000000482
+Padrao Testes>>185
+calculado>>0.067928   	desejado>>0.060000  	Erro>>0.000031428
+Padrao Testes>>186
+calculado>>0.039127   	desejado>>0.060000  	Erro>>0.000217833
+Padrao Testes>>187
+calculado>>0.037092   	desejado>>0.060000  	Erro>>0.000262381
+Padrao Testes>>188
+calculado>>0.059075   	desejado>>0.060000  	Erro>>0.000000427
+Padrao Testes>>189
+calculado>>0.043270   	desejado>>0.060000  	Erro>>0.000139953
+Padrao Testes>>190
+calculado>>0.041319   	desejado>>0.060000  	Erro>>0.000174499
+Padrao Testes>>191
+calculado>>0.060072   	desejado>>0.060000  	Erro>>0.000000003
+Padrao Testes>>192
+calculado>>0.059118   	desejado>>0.060000  	Erro>>0.000000389
+Padrao Testes>>193
+calculado>>0.052469   	desejado>>0.060000  	Erro>>0.000028359
+Padrao Testes>>194
+calculado>>0.053343   	desejado>>0.060000  	Erro>>0.000022159
+Padrao Testes>>195
+calculado>>0.057289   	desejado>>0.060000  	Erro>>0.000003674
+Padrao Testes>>196
+calculado>>0.055776   	desejado>>0.060000  	Erro>>0.000008922
+Padrao Testes>>197
+calculado>>0.052063   	desejado>>0.060000  	Erro>>0.000031501
+Padrao Testes>>198
+calculado>>0.065692   	desejado>>0.060000  	Erro>>0.000016200
+Padrao Testes>>199
+calculado>>0.052867   	desejado>>0.060000  	Erro>>0.000025442
+Padrao Testes>>200
+calculado>>0.051885   	desejado>>0.060000  	Erro>>0.000032927
+Padrao Testes>>201
+calculado>>0.053088   	desejado>>0.060000  	Erro>>0.000023890
+Padrao Testes>>202
+calculado>>0.047282   	desejado>>0.060000  	Erro>>0.000080871
+Padrao Testes>>203
+calculado>>0.067812   	desejado>>0.060000  	Erro>>0.000030513
+Padrao Testes>>204
+calculado>>0.060825   	desejado>>0.060000  	Erro>>0.000000340
+Padrao Testes>>205
+calculado>>0.057007   	desejado>>0.060000  	Erro>>0.000004479
+Padrao Testes>>206
+calculado>>0.059771   	desejado>>0.060000  	Erro>>0.000000026
+Padrao Testes>>207
+calculado>>0.053203   	desejado>>0.060000  	Erro>>0.000023103
+Padrao Testes>>208
+calculado>>0.062412   	desejado>>0.060000  	Erro>>0.000002909
+Padrao Testes>>209
+calculado>>0.051617   	desejado>>0.060000  	Erro>>0.000035141
+Padrao Testes>>210
+calculado>>0.068598   	desejado>>0.060000  	Erro>>0.000036963
+Padrao Testes>>211
+calculado>>0.063293   	desejado>>0.060000  	Erro>>0.000005422
+Padrao Testes>>212
+calculado>>0.052280   	desejado>>0.060000  	Erro>>0.000029801
+Padrao Testes>>213
+calculado>>0.050179   	desejado>>0.060000  	Erro>>0.000048226
+Padrao Testes>>214
+calculado>>0.060622   	desejado>>0.060000  	Erro>>0.000000193
+Padrao Testes>>215
+calculado>>0.053622   	desejado>>0.060000  	Erro>>0.000020336
+Padrao Testes>>216
+calculado>>0.039578   	desejado>>0.060000  	Erro>>0.000208531
+Padrao Testes>>217
+calculado>>0.038873   	desejado>>0.060000  	Erro>>0.000223169
+Padrao Testes>>218
+calculado>>0.036584   	desejado>>0.060000  	Erro>>0.000274161
+Padrao Testes>>219
+calculado>>0.039647   	desejado>>0.060000  	Erro>>0.000207131
+Padrao Testes>>220
+calculado>>0.053315   	desejado>>0.060000  	Erro>>0.000022347
+Padrao Testes>>221
+calculado>>0.054296   	desejado>>0.060000  	Erro>>0.000016270
+Padrao Testes>>222
+calculado>>0.058308   	desejado>>0.060000  	Erro>>0.000001432
+Padrao Testes>>223
+calculado>>0.058170   	desejado>>0.060000  	Erro>>0.000001675
+Padrao Testes>>224
+calculado>>0.054728   	desejado>>0.060000  	Erro>>0.000013899
+Padrao Testes>>225
+calculado>>0.056611   	desejado>>0.060000  	Erro>>0.000005744
+Padrao Testes>>226
+calculado>>0.072222   	desejado>>0.060000  	Erro>>0.000074690
+Padrao Testes>>227
+calculado>>0.072284   	desejado>>0.060000  	Erro>>0.000075447
+Padrao Testes>>228
+calculado>>0.044363   	desejado>>0.060000  	Erro>>0.000122263
+Padrao Testes>>229
+calculado>>0.045776   	desejado>>0.060000  	Erro>>0.000101158
+Padrao Testes>>230
+calculado>>0.048663   	desejado>>0.060000  	Erro>>0.000064265
+Padrao Testes>>231
+calculado>>0.067751   	desejado>>0.060000  	Erro>>0.000030042
+Padrao Testes>>232
+calculado>>0.054169   	desejado>>0.060000  	Erro>>0.000016999
+Padrao Testes>>233
+calculado>>0.054897   	desejado>>0.060000  	Erro>>0.000013022
+Padrao Testes>>234
+calculado>>0.052346   	desejado>>0.060000  	Erro>>0.000029289
+Padrao Testes>>235
+calculado>>0.055360   	desejado>>0.060000  	Erro>>0.000010765
+Padrao Testes>>236
+calculado>>0.063978   	desejado>>0.060000  	Erro>>0.000007913
+Padrao Testes>>237
+calculado>>0.060030   	desejado>>0.060000  	Erro>>0.000000000
+Padrao Testes>>238
+calculado>>0.063788   	desejado>>0.060000  	Erro>>0.000007173
+Padrao Testes>>239
+calculado>>0.056113   	desejado>>0.070000  	Erro>>0.000096431
+Padrao Testes>>240
+calculado>>0.057395   	desejado>>0.070000  	Erro>>0.000079438
+Padrao Testes>>241
+calculado>>0.054980   	desejado>>0.070000  	Erro>>0.000112806
+Padrao Testes>>242
+calculado>>0.057210   	desejado>>0.070000  	Erro>>0.000081797
+Padrao Testes>>243
+calculado>>0.055987   	desejado>>0.070000  	Erro>>0.000098177
+Padrao Testes>>244
+calculado>>0.066115   	desejado>>0.070000  	Erro>>0.000007546
+Padrao Testes>>245
+calculado>>0.065657   	desejado>>0.070000  	Erro>>0.000009433
+Padrao Testes>>246
+calculado>>0.069454   	desejado>>0.070000  	Erro>>0.000000149
+Padrao Testes>>247
+calculado>>0.070933   	desejado>>0.070000  	Erro>>0.000000436
+Padrao Testes>>248
+calculado>>0.058183   	desejado>>0.070000  	Erro>>0.000069826
+Padrao Testes>>249
+calculado>>0.058159   	desejado>>0.070000  	Erro>>0.000070108
+Padrao Testes>>250
+calculado>>0.051906   	desejado>>0.070000  	Erro>>0.000163692
+Padrao Testes>>251
+calculado>>0.052275   	desejado>>0.070000  	Erro>>0.000157084
+Padrao Testes>>252
+calculado>>0.078148   	desejado>>0.070000  	Erro>>0.000033195
+Padrao Testes>>253
+calculado>>0.077460   	desejado>>0.070000  	Erro>>0.000027826
+Padrao Testes>>254
+calculado>>0.057857   	desejado>>0.070000  	Erro>>0.000073720
+Padrao Testes>>255
+calculado>>0.056985   	desejado>>0.070000  	Erro>>0.000084701
+Padrao Testes>>256
+calculado>>0.062181   	desejado>>0.070000  	Erro>>0.000030567
+Padrao Testes>>257
+calculado>>0.061640   	desejado>>0.070000  	Erro>>0.000034948
+Padrao Testes>>258
+calculado>>0.058352   	desejado>>0.070000  	Erro>>0.000067837
+Padrao Testes>>259
+calculado>>0.058181   	desejado>>0.070000  	Erro>>0.000069849
+Padrao Testes>>260
+calculado>>0.064774   	desejado>>0.070000  	Erro>>0.000013655
+Padrao Testes>>261
+calculado>>0.064237   	desejado>>0.070000  	Erro>>0.000016609
+Padrao Testes>>262
+calculado>>0.064341   	desejado>>0.070000  	Erro>>0.000016011
+Padrao Testes>>263
+calculado>>0.064491   	desejado>>0.070000  	Erro>>0.000015176
+Padrao Testes>>264
+calculado>>0.078397   	desejado>>0.070000  	Erro>>0.000035252
+Padrao Testes>>265
+calculado>>0.075146   	desejado>>0.070000  	Erro>>0.000013238
+Padrao Testes>>266
+calculado>>0.067243   	desejado>>0.070000  	Erro>>0.000003799
+Padrao Testes>>267
+calculado>>0.068731   	desejado>>0.070000  	Erro>>0.000000805
+Padrao Testes>>268
+calculado>>0.070244   	desejado>>0.070000  	Erro>>0.000000030
+Padrao Testes>>269
+calculado>>0.069352   	desejado>>0.070000  	Erro>>0.000000210
+Padrao Testes>>270
+calculado>>0.077749   	desejado>>0.070000  	Erro>>0.000030020
+Padrao Testes>>271
+calculado>>0.076590   	desejado>>0.070000  	Erro>>0.000021713
+Padrao Testes>>272
+calculado>>0.056390   	desejado>>0.070000  	Erro>>0.000092612
+Padrao Testes>>273
+calculado>>0.052769   	desejado>>0.070000  	Erro>>0.000148457
+Padrao Testes>>274
+calculado>>0.055391   	desejado>>0.070000  	Erro>>0.000106708
+Padrao Testes>>275
+calculado>>0.054776   	desejado>>0.070000  	Erro>>0.000115878
+Padrao Testes>>276
+calculado>>0.052859   	desejado>>0.070000  	Erro>>0.000146915
+Padrao Testes>>277
+calculado>>0.053010   	desejado>>0.070000  	Erro>>0.000144330
+Padrao Testes>>278
+calculado>>0.058352   	desejado>>0.070000  	Erro>>0.000067837
+Padrao Testes>>279
+calculado>>0.059335   	desejado>>0.070000  	Erro>>0.000056867
+Padrao Testes>>280
+calculado>>0.059592   	desejado>>0.070000  	Erro>>0.000054166
+Padrao Testes>>281
+calculado>>0.058686   	desejado>>0.070000  	Erro>>0.000063998
+Padrao Testes>>282
+calculado>>0.062384   	desejado>>0.070000  	Erro>>0.000029003
+Padrao Testes>>283
+calculado>>0.062671   	desejado>>0.070000  	Erro>>0.000026861
+Padrao Testes>>284
+calculado>>0.049500   	desejado>>0.070000  	Erro>>0.000210121
+Padrao Testes>>285
+calculado>>0.051456   	desejado>>0.070000  	Erro>>0.000171947
+Padrao Testes>>286
+calculado>>0.070944   	desejado>>0.070000  	Erro>>0.000000446
+Padrao Testes>>287
+calculado>>0.072953   	desejado>>0.070000  	Erro>>0.000004361
+Padrao Testes>>288
+calculado>>0.068654   	desejado>>0.070000  	Erro>>0.000000906
+Padrao Testes>>289
+calculado>>0.068479   	desejado>>0.070000  	Erro>>0.000001156
+Padrao Testes>>290
+calculado>>0.050230   	desejado>>0.070000  	Erro>>0.000195430
+Padrao Testes>>291
+calculado>>0.051913   	desejado>>0.070000  	Erro>>0.000163573
+Padrao Testes>>292
+calculado>>0.073408   	desejado>>0.070000  	Erro>>0.000005807
+Padrao Testes>>293
+calculado>>0.072983   	desejado>>0.070000  	Erro>>0.000004449
+Padrao Testes>>294
+calculado>>0.082159   	desejado>>0.070000  	Erro>>0.000073924
+Padrao Testes>>295
+calculado>>0.077356   	desejado>>0.070000  	Erro>>0.000027057
+Padrao Testes>>296
+calculado>>0.059021   	desejado>>0.070000  	Erro>>0.000060273
+Padrao Testes>>297
+calculado>>0.059169   	desejado>>0.070000  	Erro>>0.000058657
+Padrao Testes>>298
+calculado>>0.061943   	desejado>>0.070000  	Erro>>0.000032459
+Padrao Testes>>299
+calculado>>0.061168   	desejado>>0.070000  	Erro>>0.000039003
+Padrao Testes>>300
+calculado>>0.073819   	desejado>>0.070000  	Erro>>0.000007294
+Padrao Testes>>301
+calculado>>0.074133   	desejado>>0.070000  	Erro>>0.000008542
+Padrao Testes>>302
+calculado>>0.074896   	desejado>>0.070000  	Erro>>0.000011986
+Padrao Testes>>303
+calculado>>0.075092   	desejado>>0.070000  	Erro>>0.000012963
+Padrao Testes>>304
+calculado>>0.072454   	desejado>>0.070000  	Erro>>0.000003012
+Padrao Testes>>305
+calculado>>0.071449   	desejado>>0.070000  	Erro>>0.000001050
+Padrao Testes>>306
+calculado>>0.074562   	desejado>>0.070000  	Erro>>0.000010408
+Padrao Testes>>307
+calculado>>0.073790   	desejado>>0.070000  	Erro>>0.000007181
+Padrao Testes>>308
+calculado>>0.075117   	desejado>>0.070000  	Erro>>0.000013094
+Padrao Testes>>309
+calculado>>0.074860   	desejado>>0.070000  	Erro>>0.000011812
+Padrao Testes>>310
+calculado>>0.075204   	desejado>>0.070000  	Erro>>0.000013538
+Padrao Testes>>311
+calculado>>0.075204   	desejado>>0.070000  	Erro>>0.000013538
+Padrao Testes>>312
+calculado>>0.052007   	desejado>>0.070000  	Erro>>0.000161879
+Padrao Testes>>313
+calculado>>0.052385   	desejado>>0.070000  	Erro>>0.000155150
+Padrao Testes>>314
+calculado>>0.088715   	desejado>>0.080000  	Erro>>0.000037975
+Padrao Testes>>315
+calculado>>0.089814   	desejado>>0.080000  	Erro>>0.000048161
+Padrao Testes>>316
+calculado>>0.089814   	desejado>>0.080000  	Erro>>0.000048161
+Padrao Testes>>317
+calculado>>0.090660   	desejado>>0.080000  	Erro>>0.000056822
+Padrao Testes>>318
+calculado>>0.090841   	desejado>>0.080000  	Erro>>0.000058766
+Padrao Testes>>319
+calculado>>0.090352   	desejado>>0.080000  	Erro>>0.000053579
+Padrao Testes>>320
+calculado>>0.089277   	desejado>>0.080000  	Erro>>0.000043027
+Padrao Testes>>321
+calculado>>0.085377   	desejado>>0.080000  	Erro>>0.000014457
+Padrao Testes>>322
+calculado>>0.084837   	desejado>>0.080000  	Erro>>0.000011697
+Padrao Testes>>323
+calculado>>0.086600   	desejado>>0.080000  	Erro>>0.000021779
+Padrao Testes>>324
+calculado>>0.086922   	desejado>>0.080000  	Erro>>0.000023958
+Padrao Testes>>325
+calculado>>0.085290   	desejado>>0.080000  	Erro>>0.000013991
+Padrao Testes>>326
+calculado>>0.082007   	desejado>>0.080000  	Erro>>0.000002014
+Padrao Testes>>327
+calculado>>0.076966   	desejado>>0.080000  	Erro>>0.000004604
+Padrao Testes>>328
+calculado>>0.077933   	desejado>>0.080000  	Erro>>0.000002136
+Padrao Testes>>329
+calculado>>0.087498   	desejado>>0.080000  	Erro>>0.000028107
+Padrao Testes>>330
+calculado>>0.087392   	desejado>>0.080000  	Erro>>0.000027323
+Padrao Testes>>331
+calculado>>0.088351   	desejado>>0.080000  	Erro>>0.000034869
+Padrao Testes>>332
+calculado>>0.087237   	desejado>>0.080000  	Erro>>0.000026185
+Padrao Testes>>333
+calculado>>0.070840   	desejado>>0.080000  	Erro>>0.000041950
+Padrao Testes>>334
+calculado>>0.069894   	desejado>>0.080000  	Erro>>0.000051063
+Padrao Testes>>335
+calculado>>0.070265   	desejado>>0.080000  	Erro>>0.000047381
+Padrao Testes>>336
+calculado>>0.070095   	desejado>>0.080000  	Erro>>0.000049055
+Padrao Testes>>337
+calculado>>0.084022   	desejado>>0.080000  	Erro>>0.000008090
+Padrao Testes>>338
+calculado>>0.084188   	desejado>>0.080000  	Erro>>0.000008768
+Padrao Testes>>339
+calculado>>0.081798   	desejado>>0.080000  	Erro>>0.000001617
+Padrao Testes>>340
+calculado>>0.080303   	desejado>>0.080000  	Erro>>0.000000046
+Padrao Testes>>341
+calculado>>0.084650   	desejado>>0.080000  	Erro>>0.000010813
+Padrao Testes>>342
+calculado>>0.083883   	desejado>>0.080000  	Erro>>0.000007538
+Padrao Testes>>343
+calculado>>0.083634   	desejado>>0.080000  	Erro>>0.000006603
+Padrao Testes>>344
+calculado>>0.083011   	desejado>>0.080000  	Erro>>0.000004533
+Padrao Testes>>345
+calculado>>0.082616   	desejado>>0.080000  	Erro>>0.000003421
+Padrao Testes>>346
+calculado>>0.083281   	desejado>>0.080000  	Erro>>0.000005381
+Padrao Testes>>347
+calculado>>0.086821   	desejado>>0.080000  	Erro>>0.000023261
+Padrao Testes>>348
+calculado>>0.087249   	desejado>>0.080000  	Erro>>0.000026274
+Padrao Testes>>349
+calculado>>0.076625   	desejado>>0.080000  	Erro>>0.000005696
+Padrao Testes>>350
+calculado>>0.077566   	desejado>>0.080000  	Erro>>0.000002962
+Padrao Testes>>351
+calculado>>0.075145   	desejado>>0.080000  	Erro>>0.000011788
+Padrao Testes>>352
+calculado>>0.073720   	desejado>>0.080000  	Erro>>0.000019718
+Padrao Testes>>353
+calculado>>0.097168   	desejado>>0.080000  	Erro>>0.000147363
+Padrao Testes>>354
+calculado>>0.098055   	desejado>>0.080000  	Erro>>0.000162995
+Padrao Testes>>355
+calculado>>0.097023   	desejado>>0.080000  	Erro>>0.000144896
+Padrao Testes>>356
+calculado>>0.097472   	desejado>>0.080000  	Erro>>0.000152627
+Padrao Testes>>357
+calculado>>0.090454   	desejado>>0.080000  	Erro>>0.000054644
+Padrao Testes>>358
+calculado>>0.091197   	desejado>>0.080000  	Erro>>0.000062683
+Padrao Testes>>359
+calculado>>0.090557   	desejado>>0.080000  	Erro>>0.000055721
+Padrao Testes>>360
+calculado>>0.090453   	desejado>>0.080000  	Erro>>0.000054629
+Padrao Testes>>361
+calculado>>0.087864   	desejado>>0.080000  	Erro>>0.000030922
+Padrao Testes>>362
+calculado>>0.088205   	desejado>>0.080000  	Erro>>0.000033662
+Padrao Testes>>363
+calculado>>0.086439   	desejado>>0.080000  	Erro>>0.000020733
+Padrao Testes>>364
+calculado>>0.087054   	desejado>>0.080000  	Erro>>0.000024883
+Padrao Testes>>365
+calculado>>0.091343   	desejado>>0.080000  	Erro>>0.000064337
+Padrao Testes>>366
+calculado>>0.091147   	desejado>>0.080000  	Erro>>0.000062131
+Padrao Testes>>367
+calculado>>0.089857   	desejado>>0.080000  	Erro>>0.000048576
+Padrao Testes>>368
+calculado>>0.088373   	desejado>>0.080000  	Erro>>0.000035055
+Padrao Testes>>369
+calculado>>0.083587   	desejado>>0.080000  	Erro>>0.000006435
+Padrao Testes>>370
+calculado>>0.083670   	desejado>>0.080000  	Erro>>0.000006736
+Padrao Testes>>371
+calculado>>0.084492   	desejado>>0.080000  	Erro>>0.000010087
+Padrao Testes>>372
+calculado>>0.084937   	desejado>>0.080000  	Erro>>0.000012185
+Padrao Testes>>373
+calculado>>0.082745   	desejado>>0.080000  	Erro>>0.000003769
+Padrao Testes>>374
+calculado>>0.083387   	desejado>>0.080000  	Erro>>0.000005736
+Padrao Testes>>375
+calculado>>0.082882   	desejado>>0.080000  	Erro>>0.000004152
+Padrao Testes>>376
+calculado>>0.075155   	desejado>>0.100000  	Erro>>0.000308645
+Padrao Testes>>377
+calculado>>0.075199   	desejado>>0.100000  	Erro>>0.000307550
+Padrao Testes>>378
+calculado>>0.077533   	desejado>>0.100000  	Erro>>0.000252389
+Padrao Testes>>379
+calculado>>0.077232   	desejado>>0.100000  	Erro>>0.000259189
+Padrao Testes>>380
+calculado>>0.095521   	desejado>>0.100000  	Erro>>0.000010030
+Padrao Testes>>381
+calculado>>0.094899   	desejado>>0.100000  	Erro>>0.000013009
+Padrao Testes>>382
+calculado>>0.097621   	desejado>>0.100000  	Erro>>0.000002831
+Padrao Testes>>383
+calculado>>0.098343   	desejado>>0.100000  	Erro>>0.000001373
+Padrao Testes>>384
+calculado>>0.072714   	desejado>>0.100000  	Erro>>0.000372262
+Padrao Testes>>385
+calculado>>0.072780   	desejado>>0.100000  	Erro>>0.000370453
+Padrao Testes>>386
+calculado>>0.073273   	desejado>>0.100000  	Erro>>0.000357171
+Padrao Testes>>387
+calculado>>0.072780   	desejado>>0.100000  	Erro>>0.000370453
+Padrao Testes>>388
+calculado>>0.102464   	desejado>>0.100000  	Erro>>0.000003036
+Padrao Testes>>389
+calculado>>0.100985   	desejado>>0.100000  	Erro>>0.000000485
+Padrao Testes>>390
+calculado>>0.109177   	desejado>>0.100000  	Erro>>0.000042107
+Padrao Testes>>391
+calculado>>0.108153   	desejado>>0.100000  	Erro>>0.000033239
+Padrao Testes>>392
+calculado>>0.081725   	desejado>>0.100000  	Erro>>0.000166986
+Padrao Testes>>393
+calculado>>0.081699   	desejado>>0.100000  	Erro>>0.000167459
+Padrao Testes>>394
+calculado>>0.081030   	desejado>>0.100000  	Erro>>0.000179930
+Padrao Testes>>395
+calculado>>0.080861   	desejado>>0.100000  	Erro>>0.000183142
+Padrao Testes>>396
+calculado>>0.075047   	desejado>>0.100000  	Erro>>0.000311330
+Padrao Testes>>397
+calculado>>0.074850   	desejado>>0.100000  	Erro>>0.000316252
+Padrao Testes>>398
+calculado>>0.074900   	desejado>>0.100000  	Erro>>0.000315009
+Padrao Testes>>399
+calculado>>0.075003   	desejado>>0.100000  	Erro>>0.000312432
+Padrao Testes>>400
+calculado>>0.090609   	desejado>>0.100000  	Erro>>0.000044096
+Padrao Testes>>401
+calculado>>0.089514   	desejado>>0.100000  	Erro>>0.000054982
+Padrao Testes>>402
+calculado>>0.095239   	desejado>>0.100000  	Erro>>0.000011332
+Padrao Testes>>403
+calculado>>0.095182   	desejado>>0.100000  	Erro>>0.000011606
+Padrao Testes>>404
+calculado>>0.080885   	desejado>>0.100000  	Erro>>0.000182693
+Padrao Testes>>405
+calculado>>0.080551   	desejado>>0.100000  	Erro>>0.000189131
+Padrao Testes>>406
+calculado>>0.080716   	desejado>>0.100000  	Erro>>0.000185932
+Padrao Testes>>407
+calculado>>0.080716   	desejado>>0.100000  	Erro>>0.000185932
+Padrao Testes>>408
+calculado>>0.098055   	desejado>>0.100000  	Erro>>0.000001892
+Padrao Testes>>409
+calculado>>0.098695   	desejado>>0.100000  	Erro>>0.000000851
+Padrao Testes>>410
+calculado>>0.097640   	desejado>>0.100000  	Erro>>0.000002785
+Padrao Testes>>411
+calculado>>0.097389   	desejado>>0.100000  	Erro>>0.000003408
+Padrao Testes>>412
+calculado>>0.099997   	desejado>>0.100000  	Erro>>0.000000000
+Padrao Testes>>413
+calculado>>0.098735   	desejado>>0.100000  	Erro>>0.000000800
+Padrao Testes>>414
+calculado>>0.110495   	desejado>>0.100000  	Erro>>0.000055072
+Padrao Testes>>415
+calculado>>0.111498   	desejado>>0.100000  	Erro>>0.000066104
+Padrao Testes>>416
+calculado>>0.097005   	desejado>>0.100000  	Erro>>0.000004485
+Padrao Testes>>417
+calculado>>0.096389   	desejado>>0.100000  	Erro>>0.000006520
+Padrao Testes>>418
+calculado>>0.097005   	desejado>>0.100000  	Erro>>0.000004485
+Padrao Testes>>419
+calculado>>0.097663   	desejado>>0.100000  	Erro>>0.000002731
+Padrao Testes>>420
+calculado>>0.081576   	desejado>>0.100000  	Erro>>0.000169725
+Padrao Testes>>421
+calculado>>0.081596   	desejado>>0.100000  	Erro>>0.000169362
+
+Erro Medio Quadratico>> 0.033423614
